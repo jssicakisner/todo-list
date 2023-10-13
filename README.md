@@ -2,6 +2,8 @@
 
 Este é um projeto para o back-end de um gerenciador de tarefas simples em Java desenvolvido utilizando o Spring Boot. O objetivo deste aplicativo é permitir que os usuários gerenciem suas tarefas de forma eficaz, com recursos avançados de autenticação, autorização e visulização das tarefas.
 
+O **Deploy** foi realizado com [Render](https://render.com/) e as APIs estão disponíveis para teste na seguinte url: https://to-do-list-itj5.onrender.com 
+
 ## Tecnologias Utilizadas
 
 - Spring Boot
